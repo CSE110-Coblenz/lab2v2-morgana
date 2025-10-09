@@ -1,7 +1,6 @@
+
 let snacks: string[] = ["Chips", "Cookies", "Choclate"];
 
-function printSnacks(list): void{
-    console.log(list);
+export function printSnacks(): void{
+    console.log(snacks);
   }
-
-printSnacks(snacks);
