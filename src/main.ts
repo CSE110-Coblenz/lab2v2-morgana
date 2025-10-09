@@ -1,4 +1,4 @@
-import { printMusic, musicList } from "./music.ts";
+import { printMusic, musicList } from "./music";
 printMusic(musicList);
 
 
