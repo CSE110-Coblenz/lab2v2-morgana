@@ -1,5 +1,5 @@
 var snacks = ["Chips", "Cookies", "Choclate"];
-function printSnacks(list) {
-    console.log(list);
+function printSnacks() {
+    console.log(snacks);
 }
-printSnacks(snacks);
+printSnacks();
